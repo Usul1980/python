@@ -15,7 +15,7 @@ https://www.kaggle.com/mauddib/covid-19-x-ray-deep-learning-api-endpoint-code/da
 ![Image of virus](https://github.com/Usul1980/python/blob/main/x-ray-COVID-19.jpg)
 
 ### Coursera - Advanced Machine Learning
-This specialization on Coursera sees one doing many ml, deep learning and AI tasks. I am still busy with the first part of the sepcialization, called introduction to deep learning, and have already trianed an mnist model, an image classifier and a flower classifier, all using CNN's. Here is the link to this course:
+This specialization on Coursera sees one doing many ml, deep learning and AI tasks. I am still busy with the first part of the sepcialization, called introduction to deep learning, and have already trained an mnist model, an image classifier and a flower classifier, all using CNN's. Here is the link to this course:
 https://www.coursera.org/learn/intro-to-deep-learning/home/welcome
 
 ![Image of virus](https://github.com/Usul1980/python/blob/main/image_classifier_aml_week3.png)
